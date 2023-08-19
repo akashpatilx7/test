@@ -1,5 +1,0 @@
-{{#user}}
-Name: Akash Gokul Patil
-Skills: HTML, CSS, Bootstrap, JS, ReactJs, NodeJs, ExpressJs, MongoDB, Git, GitHub
-Email: akash.patilx7@gmail.com
-{{/user}}
